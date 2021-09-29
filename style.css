@@ -23,14 +23,44 @@ body {
 .debug .preimg_contain {
     height: 100%;
 }
+
+.debug .about_contain {
+    height: 400px;
+}
+
+.debug .footer {
+    height: 300px;
+}
+
+.debug .footer.b_petrolio {
+    height: 150px;
+}
+
+.row.provvisorio.lightb_petrolio {
+    height: 70%;
+}
+
+.row.provvisorio.b_petrolio {
+    height: 30%;
+}
+
+.footer .container-md.mx-auto.provvisorio,
+.footer .container-md.mx-auto.provvisorio .row,
+.footer .container-md.mx-auto.provvisorio .row .col {
+    height: 100%;
+}
 /* Utility
 ************************************************************* */
 /* colors */
 .provvisorio {
-    background-color: #BA4B63;
+    background-color: #ba4b6370;
 }
 .b_petrolio {
     background-color: #2C3E50;
+}
+
+.lightb_petrolio {
+    background-color: #3A546D;
 }
 
 .v_acqua {
