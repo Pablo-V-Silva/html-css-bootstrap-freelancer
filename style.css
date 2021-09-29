@@ -1,0 +1,41 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Debug
+************************************************************* */
+.debug nav {
+    height: 80px;
+}
+
+.debug .jumbo {
+    height: 400px;
+}
+
+.debug .wallet {
+    height: 400px;
+}
+
+.debug .preimg {
+    height: 50%;
+}
+
+.debug .preimg_contain {
+    height: 100%;
+}
+/* Utility
+************************************************************* */
+/* colors */
+.provvisorio {
+    background-color: #BA4B63;
+}
+.b_petrolio {
+    background-color: #2C3E50;
+}
+
+.v_acqua {
+    background-color: #1ABC9C;
+}
+
+/* Nav
+************************************************************* */
