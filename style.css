@@ -126,6 +126,9 @@ body {
   background-color: #1ABC9C;
 }
 
+.v_acqua_text {
+  color: #1ABC9C;
+}
 /* size contain */
 .img_contain {
   width: 250px;
