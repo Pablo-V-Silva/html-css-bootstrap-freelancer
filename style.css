@@ -67,5 +67,8 @@ body {
   background-color: #1ABC9C;
 }
 
-/* Nav
-************************************************************* */
+/* size contain */
+.img_contain {
+  width: 250px;
+}
+
