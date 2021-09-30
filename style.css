@@ -51,27 +51,6 @@ body {
 }
 /* Utility
 ************************************************************* */
-/* colors */
-.provvisorio {
-  background-color: #ba4b6370;
-}
-.b_petrolio {
-  background-color: #2C3E50;
-}
-
-.lightb_petrolio {
-  background-color: #3A546D;
-}
-
-.v_acqua {
-  background-color: #1ABC9C;
-}
-
-/* size contain */
-.img_contain {
-  width: 250px;
-}
-
 .icon::after {
   content: "";
   width:100px;
@@ -118,4 +97,40 @@ body {
   margin-right: 2rem;
   position: relative;
   bottom: 0.6rem;
+}
+
+/* colors */
+.provvisorio {
+  background-color: #ba4b6370;
+}
+.b_petrolio {
+  background-color: #2C3E50;
+}
+
+.lightb_petrolio {
+  background-color: #3A546D;
+}
+
+.v_acqua {
+  background-color: #1ABC9C;
+}
+
+/* size contain */
+.img_contain {
+  width: 250px;
+}
+
+.contact_contain {
+  width: 60%;
+}
+
+
+/* font size */
+.fs_7 {
+  font-size: 3rem;
+}
+
+/* padding size */
+.pb_6 {
+  padding-bottom: 6rem;
 }
