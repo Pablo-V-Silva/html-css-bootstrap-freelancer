@@ -99,6 +99,17 @@ body {
   bottom: 0.6rem;
 }
 
+.text_area {
+  padding: 0 0;
+  border: none;
+}
+
+.text_area:focus,
+.btn:focus,
+.navbar-toggler:focus {
+  box-shadow: none;
+}
+
 /* colors */
 .provvisorio {
   background-color: #ba4b6370;
