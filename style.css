@@ -145,3 +145,15 @@ body {
 .pb_6 {
   padding-bottom: 6rem;
 }
+
+/* FOOTER
+***************************************************************** */
+.social_icon {
+  border: 2px solid white;
+  width: 45px;
+  height: 45px;
+}
+
+.center_y {
+  line-height: 38px;
+}
